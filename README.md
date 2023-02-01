@@ -2,7 +2,7 @@
 
 ## To start with yarn
 ### yarn install
-###y arn start
+### yarn start
 
 ## To start with npm
 make sure you have the requrired node version (nvm ls)
